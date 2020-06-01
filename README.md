@@ -12,8 +12,10 @@ You will get your trained model weights as output which will be loaded in file "
 
 I wasn't able to upload few large files here for the project but I will provide the link so that you can directly download it from source.
 
-Dataset Link If needed : https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
-Global Vector link (GloVe) : http://nlp.stanford.edu/data/glove.6B.zip
-Drive link to my model if needed : https://drive.google.com/file/d/1SXxt8u29o3lbC7d1Bx_eVlKDnfXke39Z/view?usp=sharing
+Dataset Link If needed : https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews          
 
+Global Vector link (GloVe) : http://nlp.stanford.edu/data/glove.6B.zip
+           
+Drive link to my model if needed : https://drive.google.com/file/d/1SXxt8u29o3lbC7d1Bx_eVlKDnfXke39Z/view?usp=sharing
+       
 Note: You need to download GloVe word vectors and store it in the "data" folder of the repository / project directory if not present create one.
